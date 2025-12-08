@@ -226,3 +226,8 @@ checkpoints/
 submissions/
 *.csv
 !meta/*.csv     
+
+# 프로젝트 데이터는 깃에 올리지 않기
+data/
+!data/README.md
+
